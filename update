@@ -2,7 +2,7 @@
 
 #simple update & upgrade with switch yes being activat bash script
 #echo "Updating will begin after you input the sudoers password"
-sudo apt update && sudo apt upgrade -y
+sudo apt-get update && sudo apt-get upgrade -y
 #echo "Updating was successful"
 
 
